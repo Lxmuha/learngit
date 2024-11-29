@@ -1,0 +1,178 @@
+{
+  "main": {
+    "id": "7e75703881a40460",
+    "type": "split",
+    "children": [
+      {
+        "id": "55b2f9eae9bdb493",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2fc30425e83aa81f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "工作内容/ai_compiler_roadmap.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ai_compiler_roadmap"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "33994cf1fc831ea9",
+    "type": "split",
+    "children": [
+      {
+        "id": "ddb3ec076d9858ad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b5a3cf0f0df3a8ce",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "994fb59d204bce64",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "6cc6da0895b574cb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e6b8e1aa771f91ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "39980e685fb9aa4b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb16f19a76440ded",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "b9f1542699acc9e2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "561e897910e89534",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "1f17b3e9591a6a11",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "b5a3cf0f0df3a8ce",
+  "lastOpenFiles": [
+    "工作内容/basic_compiler.md",
+    "工作内容/d2s.md",
+    "工作内容/new_runtime.md",
+    "工作内容/st_runtime重构.md",
+    "工作内容/TVM的核心数据结构.md",
+    "工作内容/TVM核心流程.md",
+    "工作内容/TVM架构以及代码结构分析.md",
+    "工作内容/TVM源码解读.md",
+    "工作内容/TVM Relay解析.md",
+    "工作内容/ai_compiler_roadmap.md",
+    "工作内容/算子接入.md",
+    "欢迎.md",
+    "未命名.md",
+    "工作内容"
+  ]
+}
